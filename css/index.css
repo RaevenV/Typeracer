@@ -1,0 +1,101 @@
+.textTB-container {
+  width: 95%;
+  min-height: 100px;
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.75);
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: rgb(221, 221, 221);
+}
+
+.textTB {
+  width: 100%;
+  background-color: #f2f2f2;
+  padding: 20px 30px;
+  min-height: 100px;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #141414;
+}
+
+.inputTB-container {
+  width: 95%;
+  min-height: 60px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-top: 40px;
+}
+
+.inputTB {
+  width: 30%;
+  background-color: #f2f2f2;
+  padding: 20px 30px;
+  height: 100%;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #1f1f1f;
+  text-align: center;
+  vertical-align: top;
+}
+
+.startBtn-container {
+  width: 95%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-top: 30px;
+}
+
+.startBtn {
+  width: 140px;
+  height: 50px;
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.75);
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.countdown-container {
+  width: 95%;
+  min-height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 60px;
+  font-size: 42px;
+  font-weight: 600;
+  color: #f0f0f0;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.wpm-container {
+  width: 95%;
+  min-height: 60px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-top: 40px;
+}
+
+.wpm-wrapper{
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.75);
+  width: 30%;
+  background-color: #f2f2f2;
+  padding: 20px 30px;
+  min-height: 100px;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #141414;
+}
